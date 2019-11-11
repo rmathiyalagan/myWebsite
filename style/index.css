@@ -1,0 +1,22 @@
+.page-content{
+	max-width: 500px;
+  margin: auto;
+  font-family:courier;
+
+}
+body{
+
+}
+
+
+.button5 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button5:hover {
+  background-color: black;
+  color: white;
+}
+
